@@ -1,0 +1,7 @@
+#display {
+    font-variant-numeric: tabular-nums;
+}
+
+#messaggio {
+    min-height: 1.5em;
+}
